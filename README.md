@@ -14,7 +14,7 @@ The built-in dev-server allows you to preview your edits as you're writing it. I
 ```bash
 mkdocs serve
 ```
-from the root of the repository. Once the server is up you should be able to see the previous in your browser at [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
+from the root of the repository. Once the server is up you should be able to see the preview in your browser at [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
 
 To build the site you need to do the following steps:
 * run `mkdocs build` in the root folder
